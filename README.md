@@ -1,4 +1,4 @@
-hello..  This is sulaiman birthday website. added new text and CSS for better look.
+hello..  This is birthday website. added new text and CSS for better look.
 
 What's New:
     - Updated index.html with birthday messages
@@ -11,4 +11,4 @@ What's New:
 My Changes:
     - Added "Happy Birthday" text (from commit on Oct 23)
 
- Made by Sualimancse. 😊
+ Made by bhut 😊
